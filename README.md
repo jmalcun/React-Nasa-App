@@ -1,3 +1,7 @@
+### Description
+Pagina web en React donde utilizo Redux y Firebase. Consumiendo la API de la NASA. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
